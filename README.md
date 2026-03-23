@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+<img width="1911" height="952" alt="image" src="https://github.com/user-attachments/assets/a1e38dc0-935f-4533-8d3b-4f556fa95dd2" />
+
+
+### Name:MOHAMED AJMAL .H
+### Register Number:212225230173
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
